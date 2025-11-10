@@ -1,0 +1,3 @@
+python-dotenv
+tinker==0.2.2
+transformers
